@@ -11,3 +11,4 @@ export default function Atividade1() {
         </View>
     );
 } 
+  
