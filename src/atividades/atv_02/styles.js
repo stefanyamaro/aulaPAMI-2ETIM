@@ -1,18 +1,18 @@
 import { StyleSheet } from 'react-native';
-import { RfValue } from 'react-native-responsive-fontsize';
+import { RFValue } from 'react-native-responsive-fontsize';
 
 
 const styles = StyleSheet.create({
-    container: {        
-        padding: RfValue(15),      
+    container: {
+        padding: RFValue(15),      
         alignItems: 'center', 
         width: '100%', 
         height: '100%', 
         backgroundColor: '#e3f2fd', 
-        borderRadius: RfValue (20), 
+        borderRadius: RFValue (20), 
     },  
     titulo: {
-        fontSize: RfValue(25), 
+        fontSize: RFValue(25), 
         fontWeight: 'bold', 
     }, 
     imagem: {

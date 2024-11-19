@@ -15,9 +15,9 @@ export default function Atividade2 () {
             </Text>
             <Image source={logo} style={styles.imagem} /> 
 
-            <Mensagem nome={'Mario'} Idade={45} />
-            <Mensagem nome={'Mauro'} Idade={59} />
-            <Mensagem nome={'Marlo'} Idade={15}/>
+            <Mensagem nome={'st'} idade={45} />
+            <Mensagem nome={'Mauro'} idade={59} />
+            <Mensagem nome={'Marlo'} idade={15}/>
         </View>
     );
 }

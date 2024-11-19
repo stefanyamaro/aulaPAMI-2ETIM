@@ -12,10 +12,11 @@ const styles = StyleSheet.create({
     },
 
     container:{
+        alignItems: 'center',
         marginBottom: RFValue(10),
         borderBottomWidth: RFValue(2),
         width: '100%',
-        alignItems: 'center',
+       
     }
 
 });
